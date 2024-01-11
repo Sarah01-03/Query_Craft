@@ -1,2 +1,2 @@
 # Query_Craft
-A collection of SQL files
+A collection of SQL project files
